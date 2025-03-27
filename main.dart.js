@@ -47058,7 +47058,7 @@ o=this.r
 if(o==="loading")r.push(B.nL)
 else if(o==="awaiting confirmation")r.push(new A.bW(B.bi,A.aJ("Your account is currently awaiting confirmation by admin. Please check back later.",s,s,s,s,A.fF(s,s,B.c5,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.bc,s),s))
 else if(o==="confirmed")r.push(A.mu(A.QF(new A.aye(),3),1))
-return A.lA(q,A.cZ(s,A.e5(r,B.E,B.B,B.F),B.t,s,s,new A.bS(s,new A.wc(new A.vp("background.jpg",s,s),new A.Co(p,B.n7,s,B.nM),B.DA),s,s,s,s,B.S),s,s,s,s,s,s,s))}}
+return A.lA(q,A.cZ(s,A.e5(r,B.E,B.B,B.F),B.t,s,s,new A.bS(s,new A.wc(new A.vp("assets/background.jpg",s,s),new A.Co(p,B.n7,s,B.nM),B.DA),s,s,s,s,B.S),s,s,s,s,s,s,s))}}
 A.ayf.prototype={
 $0(){this.a.r=J.a1(this.b,"status")},
 $S:0}
